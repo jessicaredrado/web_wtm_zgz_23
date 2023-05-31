@@ -1,2 +1,3 @@
-# web_wtm_zgz_23
-Web WTM Zaragoza 2023
+# Web for Women Techmakers Zaragoza 2023
+
+A Jekyll implementation with a Bootstrap template using GitHub Pages
